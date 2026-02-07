@@ -1,4 +1,3 @@
-## Hi, I'm Amaury, welcome!
 I design and secure cloud platforms at scale, working at the intersection of Cloud Security, DevSecOps, and Infrastructure as Code. With 12+ years of experience, I help organizations build secure, resilient, and scalable systems without slowing down delivery.
 
 Frequent speaker at international conferences such as HashiTalks, SREDay, AWS Summits, DevOps Days, and local meetups, sharing insights on AppSec, Cloud Security, and modern application delivery. 📫Let’s connect on [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
