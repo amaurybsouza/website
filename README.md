@@ -1,10 +1,7 @@
 ## Hi, I'm Amaury, welcome!
+I design and secure cloud platforms at scale, working at the intersection of Cloud Security, DevSecOps, and Infrastructure as Code. With 12+ years of experience, I help organizations build secure, resilient, and scalable systems without slowing down delivery.
 
-Cloud Security Engineer Lead at [CI&T](https://ciandt.com/br/pt-br/home) & MBA Professor at [FIAP](https://www.fiap.com.br) with 12+ years of experience. Recognized by HashiCorp for the third year as an [Hashicorp Ambassador](https://www.hashicorp.com/en/ambassador) as well by AWS as an [AWS Community Builder](https://builder.aws.com/connect/community/community-builders), with proven expertise in #devsecops, #cybersecurity #automation #terraform. 
-
-Frequent speaker at international conferences such as HashiTalks, SREDay, Summits, DevOpsDays, and local meetups, sharing insights on appsec, cloud security and modern app delivery. 📫Let’s connect on [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
-
-As a professor, Amaury prepares the next generation of technology leaders in cloud security and DevSecOps, bringing real-world expertise into the classroom. If you want to know more details of the MBA please check this [link](https://www.fiap.com.br/mba/mba-em-devops-automation-e-cloud-strategy/) and join with us rock the future.
+Frequent speaker at international conferences such as HashiTalks, SREDay, AWS Summits, DevOps Days, and local meetups, sharing insights on AppSec, Cloud Security, and modern application delivery. 📫Let’s connect on [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
 
 ## Most recent articles
 I'm excited to dive into DevOps and share my journey on [Medium](https://amaurybsouza.medium.com/), aiming to inspire, connect, and grow with the community.
