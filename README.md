@@ -1,4 +1,4 @@
-## Hi, I'm Amaury!👏👏👏
+## Hi, I'm Amaury, welcome!
 
 Cloud Security Engineer Lead at [CI&T](https://ciandt.com/br/pt-br/home) & MBA Professor at [FIAP](https://www.fiap.com.br) with 12+ years of experience. Recognized by HashiCorp for the third year as an [Hashicorp Ambassador](https://www.hashicorp.com/en/ambassador) as well by AWS as an [AWS Community Builder](https://builder.aws.com/connect/community/community-builders), with proven expertise in #devsecops, #cybersecurity #automation #terraform. 
 
@@ -6,8 +6,9 @@ Frequent speaker at international conferences such as HashiTalks, SREDay, Summit
 
 As a professor, Amaury prepares the next generation of technology leaders in cloud security and DevSecOps, bringing real-world expertise into the classroom. If you want to know more details of the MBA please check this [link](https://www.fiap.com.br/mba/mba-em-devops-automation-e-cloud-strategy/) and join with us rock the future.
 
-## Most Recent articles
+## Most recent articles
 I'm excited to dive into DevOps and share my journey on [Medium](https://amaurybsouza.medium.com/), aiming to inspire, connect, and grow with the community.
+- FEB 01, 2026 - [Security BSides 2026: Segurança, hacking e comunidade](https://amaurybsouza.medium.com/security-bsides-2026-seguran%C3%A7a-hacking-e-comunidade-d89ff54b687f)
 - SEP 30, 2025 - [HashiConf’25](https://amaurybsouza.medium.com/hashiconf25-1437c5fb239e)
 - AUG 24, 2025 - [Usando Amazon Q para Detecção de Vulnerabilidades](https://amaurybsouza.medium.com/usando-amazon-q-para-detec%C3%A7%C3%A3o-de-vulnerabilidades-703eab813dd2)
 - AUG 08, 2025 - [Terraform Sandbox: Ambiente Interativo para aprender](https://amaurybsouza.medium.com/terraform-sandbox-ambiente-interativo-para-aprender-1e1ebd4588da)
@@ -17,7 +18,6 @@ I'm excited to dive into DevOps and share my journey on [Medium](https://amauryb
 - MAY 07, 2025 - [Hashicorp Ambassador 2025](https://amaurybsouza.medium.com/hashicorp-ambassador-2025-c5e77f7b33dc)
 - FEB 02, 2025 - [AWS Translate: From english to any language in seconds](https://community.aws/content/2sV489BjzB0mLBLvRfLCbejRBnK/aws-translate-from-english-to-any-language-in-seconds)
 - JAN 19, 2025 - [5 Must-Have AI/ML Tools for AWS Certified AI Practitioner](https://community.aws/content/2ro2cXtVxEhhuzPptwZ0Lny5w2I/5-must-have-ai-ml-tools-for-aws-certified-ai-practitioner)
-- JAN 10, 2025 - [Automate AWS CLI Deployment Using Ansible – Step by Step](https://community.aws/content/2rGOv0VY5bSbxI4HEXTjQisRU8L/automate-aws-cli-deployment-using-ansible-step-by-step)
 
 ## AWSome Cybersecurity News
 - OCT 02, 2025 [HashiTalks'26](https://amauryborgessouza.substack.com/p/hashitalks26)
