@@ -15,10 +15,6 @@ I'm excited to dive into DevOps and share my journey on [Medium](https://amauryb
 - FEB 02, 2025 - [AWS Translate: From english to any language in seconds](https://community.aws/content/2sV489BjzB0mLBLvRfLCbejRBnK/aws-translate-from-english-to-any-language-in-seconds)
 - JAN 19, 2025 - [5 Must-Have AI/ML Tools for AWS Certified AI Practitioner](https://community.aws/content/2ro2cXtVxEhhuzPptwZ0Lny5w2I/5-must-have-ai-ml-tools-for-aws-certified-ai-practitioner)
 
-### AWSome Cybersecurity News
-- OCT 02, 2025 [HashiTalks'26](https://amauryborgessouza.substack.com/p/hashitalks26)
-- AUG 22, 2025 [Workshop de segurança a vista: Protegendo sua infraestrutura como código com Snyk, AWS e Terraform](https://amauryborgessouza.substack.com/p/workshop-de-seguranca-a-vista-protegendo)
-  
 ## Open-Source Projects
 Check out my collection of [GitHub](https://github.com/amaurybsouza) projects showcasing Infrastructure as Code (IaC) principles, using tools like Terraform and Ansible. Includes templates for cloud platforms like AWS and Azure.
 - Oct 26, 2022: [devops-cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet); (helps you with the most commonly and used commands).
@@ -32,7 +28,7 @@ Check out my collection of [GitHub](https://github.com/amaurybsouza) projects sh
 - Created mar/2023: [terraform-azure-virtual-machines](https://github.com/Terraform-Tutorials/terraform-azure-virtual-machines); (allows you to automate vms azure).
 - Created dec/2021: [ad-hoc-commands](https://github.com/Ansible-Tutorials/ad-hoc-commands); (ansible ad hoc command uses to automate the configurations).
 
-## Tech Conferences & Events
+## Tech Conferences
 Below are the scheduled conferences and events that I am either organizing, speaking at, or attending.
 - Dec 04, 2025: Speaking at [SREDay](https://sreday.com/) – To be announced. (Hortolândia, SP)
 - Nov 18, 2025: Speaking at [CI&T Security Summer](https://ciandt.com/br/pt-br/home) – Cloud Security Practices. (Campinas, SP)
@@ -42,6 +38,10 @@ Below are the scheduled conferences and events that I am either organizing, spea
 - Sep 10, 2025: Attending at [Google Cloud Summit 2025](https://cloudonair.withgoogle.com/events/google-cloud-summit-brasil-2025) – Security Trends. (São Paulo, SP)
 - Aug 07, 2025: Speaking at [HashiTalks 2025](https://events.hashicorp.com/hashitalksbrasil) – Terraform & IA. (Monte Mor, SP)
 - Aug 13, 2025: Attending at [AWS Summit 2025](https://aws.amazon.com/pt/events/summits/?awsf.events-location=*all&awsf.events-series=*all) – (São Paulo, SP)
+
+### AWSome Cybersecurity News
+- OCT 02, 2025 [HashiTalks'26](https://amauryborgessouza.substack.com/p/hashitalks26)
+- AUG 22, 2025 [Workshop de segurança a vista: Protegendo sua infraestrutura como código com Snyk, AWS e Terraform](https://amauryborgessouza.substack.com/p/workshop-de-seguranca-a-vista-protegendo)
 
 ## Previous Job
 I am an experienced DevOps Engineer with a strong focus on cloud technologies, automation, and Infrastructure as Code (IaC). Throughout my career, I've had the privilege of making impactful contributions to projects, particularly during my tenure at Bradesco bank, where I played a key role in optimizing processes and ensuring the reliability of infrastructure.
