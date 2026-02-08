@@ -1,6 +1,6 @@
 I design and secure cloud platforms at scale, working at the intersection of Cloud Security, DevSecOps, and Infrastructure as Code. With 12+ years of experience, I help organizations build secure, resilient, and scalable systems without slowing down delivery.
 
-Frequent speaker at international conferences such as HashiTalks, SREDay, AWS Summits, DevOps Days, and local meetups, sharing insights on AppSec, Cloud Security, and modern application delivery. Check out my talks on [Sessionize](https://sessionize.com/amaurybsouza/).
+Frequent speaker at international conferences such as HashiTalks, SREDay, AWS Summits, DevOps Days, and local meetups, sharing insights on AppSec, Cloud Security, and modern application delivery. Check out my talks on [Sessionize](https://sessionize.com/amaurybsouza/). If you prefer I am available on [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
 
 ## Most recent articles
 I'm excited to dive into DevOps and share my journey on [Medium](https://amaurybsouza.medium.com/), aiming to inspire, connect, and grow with the community.
