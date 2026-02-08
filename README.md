@@ -39,10 +39,6 @@ Below are the scheduled conferences and events that I am either organizing, spea
 - Aug 07, 2025: Speaking at [HashiTalks 2025](https://events.hashicorp.com/hashitalksbrasil) – Terraform & IA. (Monte Mor, SP)
 - Aug 13, 2025: Attending at [AWS Summit 2025](https://aws.amazon.com/pt/events/summits/?awsf.events-location=*all&awsf.events-series=*all) – (São Paulo, SP)
 
-### AWSome Cybersecurity News
-- OCT 02, 2025 [HashiTalks'26](https://amauryborgessouza.substack.com/p/hashitalks26)
-- AUG 22, 2025 [Workshop de segurança a vista: Protegendo sua infraestrutura como código com Snyk, AWS e Terraform](https://amauryborgessouza.substack.com/p/workshop-de-seguranca-a-vista-protegendo)
-
 ## Previous Job
 I am an experienced DevOps Engineer with a strong focus on cloud technologies, automation, and Infrastructure as Code (IaC). Throughout my career, I've had the privilege of making impactful contributions to projects, particularly during my tenure at Bradesco bank, where I played a key role in optimizing processes and ensuring the reliability of infrastructure.
 
